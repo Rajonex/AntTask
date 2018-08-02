@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<metalink>
+  <published>Wed May 16 22:31:06 CEST 2018</published>
+  <file name=".classpath">
+    <size>490</size>
+    <hash type="md5">0e21ffe7681480e32c5152066831758c</hash>
+    <url>http://www.mojlink.pl/.classpath</url>
+  </file>
+  <file name=".project">
+    <size>384</size>
+    <hash type="md5">a79089660d5429488dda97ae15fb30b4</hash>
+    <url>http://www.mojlink.pl/.project</url>
+  </file>
+  <file name="org.eclipse.jdt.core.prefs">
+    <size>598</size>
+    <hash type="md5">7ebe8f1a76b1ec0e5fd4ab4ad39e1f0c</hash>
+    <url>http://www.mojlink.pl/.settings/org.eclipse.jdt.core.prefs</url>
+  </file>
+  <file name="MyTask.jar">
+    <size>50829</size>
+    <hash type="md5">9645ecd652bc58baaaf38fcf82570000</hash>
+    <url>http://www.mojlink.pl/MyTask.jar</url>
+  </file>
+  <file name="Find.class">
+    <size>3657</size>
+    <hash type="md5">bea0bf110aa35cf974cbb907fbb638cd</hash>
+    <url>http://www.mojlink.pl/bin/task/Find.class</url>
+  </file>
+  <file name="FileXMLWriter.class">
+    <size>4203</size>
+    <hash type="md5">d89591d31266f3c6db7b63ec4875f6a9</hash>
+    <url>http://www.mojlink.pl/bin/util/FileXMLWriter.class</url>
+  </file>
+  <file name="MetalinkFile.class">
+    <size>1288</size>
+    <hash type="md5">be22899a785bca4d9f5a7ef3d5e9e985</hash>
+    <url>http://www.mojlink.pl/bin/util/MetalinkFile.class</url>
+  </file>
+  <file name="build.xml">
+    <size>1349</size>
+    <hash type="md5">08c3249f4ab40be3830bd67913301300</hash>
+    <url>http://www.mojlink.pl/build.xml</url>
+  </file>
+  <file name="Find.class">
+    <size>2704</size>
+    <hash type="md5">bfd58522a775a5cce447ca9b8694daf5</hash>
+    <url>http://www.mojlink.pl/classes/task/Find.class</url>
+  </file>
+  <file name="HelloWorld.class">
+    <size>432</size>
+    <hash type="md5">c036ed385a3140d279ad08afa6cedde0</hash>
+    <url>http://www.mojlink.pl/classes/task/HelloWorld.class</url>
+  </file>
+  <file name="FileXMLWriter.class">
+    <size>2970</size>
+    <hash type="md5">c34725e7d9893f05f947fdfda6846a7a</hash>
+    <url>http://www.mojlink.pl/classes/util/FileXMLWriter.class</url>
+  </file>
+  <file name="MetalinkFile.class">
+    <size>757</size>
+    <hash type="md5">04f3068c5bd3f272e39ec947b69a5532</hash>
+    <url>http://www.mojlink.pl/classes/util/MetalinkFile.class</url>
+  </file>
+  <file name="file.xml">
+    <size>255</size>
+    <hash type="md5">4ae4a0444d76d4705d36752ccdd48f06</hash>
+    <url>http://www.mojlink.pl/file.xml</url>
+  </file>
+  <file name="ant.jar">
+    <size>1286456</size>
+    <hash type="md5">b7eeda8f70d6ce287fe1b30e2ccc8fdb</hash>
+    <url>http://www.mojlink.pl/lib/ant.jar</url>
+  </file>
+  <file name="org-apache-commons-codec.jar">
+    <size>46739</size>
+    <hash type="md5">fb5e4c116350cd558b7bf1fe29968d74</hash>
+    <url>http://www.mojlink.pl/lib/org-apache-commons-codec.jar</url>
+  </file>
+  <file name="newfile.txt">
+    <size>5</size>
+    <hash type="md5">5d41402abc4b2a76b9719d911017c592</hash>
+    <url>http://www.mojlink.pl/newfile.txt</url>
+  </file>
+  <file name="Find.java">
+    <size>2319</size>
+    <hash type="md5">a6c2cc7dc54a38d474b542ff9c6ee35d</hash>
+    <url>http://www.mojlink.pl/src/task/Find.java</url>
+  </file>
+  <file name="FileXMLWriter.java">
+    <size>2668</size>
+    <hash type="md5">9e8beb107d262194e580083257a86917</hash>
+    <url>http://www.mojlink.pl/src/util/FileXMLWriter.java</url>
+  </file>
+  <file name="MetalinkFile.java">
+    <size>767</size>
+    <hash type="md5">eaf7ec9b67952b2aea4387488752fe7c</hash>
+    <url>http://www.mojlink.pl/src/util/MetalinkFile.java</url>
+  </file>
+</metalink>
